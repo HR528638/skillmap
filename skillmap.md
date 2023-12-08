@@ -9,7 +9,7 @@
 
 ### interface-activity1
 
-* name: Learn to use MakeCode Arcade
+* name: 学习3D建模
 * type: tutorial
 * description: Intro to our tutorial cards
 * tags: easy
@@ -18,7 +18,7 @@
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
 
 ## space
-* name: Design a Space Explorer
+* name: 电路
 * description: Let's explore the depths of space! We'll design a vessel for space travel, add some enemies, and populate the universe with planets.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/design-a-space-explorer.pdf
 
