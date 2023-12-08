@@ -1,6 +1,6 @@
 # sample
 * name: 倍塔狗人工智能ALL3课程体系
-* description: Level up your game making skills by completing the tutorials in this guide.
+* description: 践行创新教育，点亮创客思维，培养人工智能时代乔布斯
 
 ## interface
 * name: 构造
