@@ -1,9 +1,9 @@
 # sample
-* name: Game Maker Guide
+* name: 倍塔狗人工智能ALL3课程体系
 * description: Level up your game making skills by completing the tutorials in this guide.
 
 ## interface
-* name: Learn to use MakeCode Arcade
+* name: 构造
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
