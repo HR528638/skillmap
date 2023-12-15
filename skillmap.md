@@ -1,6 +1,6 @@
 # sample
-* name: 倍塔狗人工智能ALL3课程体系
-* description: 践行创新教育，点亮创客思维，培养人工智能时代乔布斯
+* name: junen的测试
+* description: aaaaaaa
 
 ## interface
 * name: 构造
